@@ -6,6 +6,20 @@ SPDX-License-Identifier: CC0-1.0
 
 # OKH RDF triple-store tester
 
+---
+---
+
+!!!
+**DEPRECATED**
+This repo is now deprecated,
+and superseded by <https://github.com/osegermany/OKH-RDF-DB>.
+!!!
+
+---
+---
+
+<s>
+
 [![License](
     https://img.shields.io/github/license/OPEN-NEXT/LOSH-RDF-DB-tester.svg?style=flat)](
     ./LICENSE.txt)
@@ -52,3 +66,5 @@ The web-UI will then (probably) be available at:
 
 You can now try your first [sample query](res/sample-query.txt)
 on the OKH data.
+
+</s>
